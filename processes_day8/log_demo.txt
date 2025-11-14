@@ -1,0 +1,5 @@
+echo "INFO: server started" > log_demo.txt
+echo "WARNING: low memory" >> log_demo.txt
+echo "ERROR: cannot open file" >> log_demo.txt
+echo "ERROR: failed to connect to DB" >> log_demo.txt
+echo "INFO: server stopped" >> log_demo.txt
