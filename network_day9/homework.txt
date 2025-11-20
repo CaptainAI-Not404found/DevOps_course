@@ -15,7 +15,7 @@ Address:	192.168.31.1#53
 Non-authoritative answer:
 Name:	google.com
 Address: 142.250.186.78
-
+--- Ports ---
 COMMAND    PID  USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
 rapportd   651 admin    7u  IPv4 0x1b63733a7f03fdf8      0t0  TCP *:57461 (LISTEN)
 rapportd   651 admin    8u  IPv6 0x123050ad2baa40f3      0t0  TCP *:57461 (LISTEN)
@@ -36,4 +36,4 @@ packet-ex 7637 admin    9u  IPv6 0x9195e0d423d03252      0t0  TCP [::1]:1080 (LI
 packet-ex 7637 admin   14u  IPv6 0x49650739bad7a728      0t0  UDP [::1]:1080
 packet-ex 7637 admin   15u  IPv6 0xbebc90a2fa3716e1      0t0  TCP [::1]:57634->[::1]:1080 (ESTABLISHED)
 packet-ex 7637 admin   16u  IPv6 0xaad3f15c9a01a295      0t0  TCP [::1]:57635->[::1]:1080 (ESTABLISHED)
---- Ports ---
+
